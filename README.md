@@ -1,3 +1,4 @@
+
 # Advanced English Learning Chatbot with LangChain RAG
 
 A comprehensive English learning chatbot platform featuring intelligent mode detection, specialized function calling, full-screen responsive UI, and advanced text-to-speech capabilities.
@@ -658,6 +659,3 @@ VECTOR_SEARCH_K=3
 - ✅ **HTTPS**: Use SSL/TLS in production (required for TTS)
 - ✅ **API Key Rotation**: Regular rotation of OpenAI API keys
 - ✅ **Monitoring**: Health checks and performance monitoring
-  #   c h a t - b o t - A I 
-   
-   
