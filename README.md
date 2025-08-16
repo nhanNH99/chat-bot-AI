@@ -658,5 +658,6 @@ VECTOR_SEARCH_K=3
 - ✅ **HTTPS**: Use SSL/TLS in production (required for TTS)
 - ✅ **API Key Rotation**: Regular rotation of OpenAI API keys
 - ✅ **Monitoring**: Health checks and performance monitoring
-#   c h a t - b o t - A I  
- 
+  #   c h a t - b o t - A I 
+   
+   
