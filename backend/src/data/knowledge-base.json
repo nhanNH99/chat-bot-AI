@@ -1,0 +1,228 @@
+{
+  "subscription_plans": [
+    {
+      "id": "basic",
+      "title": "Basic Plan",
+      "price": "$9.99/month",
+      "features": [
+        "Access to basic English conversations",
+        "Grammar checking",
+        "Basic vocabulary exercises",
+        "Up to 100 AI conversations per month",
+        "Email support"
+      ],
+      "description": "Perfect for beginners who want to start learning English conversation basics."
+    },
+    {
+      "id": "premium",
+      "title": "Premium Plan",
+      "price": "$19.99/month",
+      "features": [
+        "Unlimited AI conversations",
+        "Advanced grammar explanations",
+        "Pronunciation feedback",
+        "Personalized learning path",
+        "Voice practice sessions",
+        "Progress tracking",
+        "Priority support"
+      ],
+      "description": "Ideal for serious learners who want comprehensive English improvement."
+    },
+    {
+      "id": "professional",
+      "title": "Professional Plan",
+      "price": "$39.99/month",
+      "features": [
+        "Everything in Premium",
+        "Business English scenarios",
+        "Interview preparation",
+        "Presentation skills training",
+        "Industry-specific vocabulary",
+        "1-on-1 tutor sessions (2 hours/month)",
+        "Certificate of completion"
+      ],
+      "description": "Best for professionals who need English for their career advancement."
+    }
+  ],
+  "learning_roadmap": {
+    "beginner": {
+      "level": "Beginner (A1-A2)",
+      "duration": "3-6 months",
+      "goals": [
+        "Learn basic greetings and introductions",
+        "Master present tense verbs",
+        "Build vocabulary of 500+ common words",
+        "Practice simple conversations",
+        "Understand basic grammar rules"
+      ],
+      "topics": [
+        "Alphabet and pronunciation",
+        "Numbers and time",
+        "Family and relationships",
+        "Daily routines",
+        "Food and drinks",
+        "Shopping and directions",
+        "Basic past and future tenses"
+      ],
+      "recommended_study_time": "30 minutes per day"
+    },
+    "intermediate": {
+      "level": "Intermediate (B1-B2)",
+      "duration": "6-12 months",
+      "goals": [
+        "Express opinions and feelings",
+        "Use complex sentence structures",
+        "Understand native speaker conversations",
+        "Write clear, detailed texts",
+        "Handle most social and work situations"
+      ],
+      "topics": [
+        "Conditional sentences",
+        "Passive voice",
+        "Phrasal verbs",
+        "Idioms and expressions",
+        "Business communication",
+        "Travel and culture",
+        "News and current events"
+      ],
+      "recommended_study_time": "45 minutes per day"
+    },
+    "advanced": {
+      "level": "Advanced (C1-C2)",
+      "duration": "12+ months",
+      "goals": [
+        "Achieve near-native fluency",
+        "Understand nuanced meanings",
+        "Use sophisticated vocabulary",
+        "Master all grammar structures",
+        "Communicate professionally in all contexts"
+      ],
+      "topics": [
+        "Advanced grammar structures",
+        "Academic and technical writing",
+        "Public speaking and presentations",
+        "Critical thinking and debate",
+        "Literature and creative writing",
+        "Specialized vocabulary",
+        "Cultural nuances"
+      ],
+      "recommended_study_time": "60+ minutes per day"
+    }
+  },
+  "common_errors": [
+    {
+      "error": "Using 'a' or 'an' incorrectly",
+      "explanation": "Use 'a' before consonant sounds and 'an' before vowel sounds",
+      "examples": {
+        "incorrect": "I need an car",
+        "correct": "I need a car"
+      },
+      "solution": "Listen to the sound, not the letter. 'Car' starts with /k/ sound, so use 'a'."
+    },
+    {
+      "error": "Confusing 'its' and 'it's'",
+      "explanation": "'Its' is possessive, 'it's' is a contraction of 'it is'",
+      "examples": {
+        "incorrect": "The dog wagged it's tail",
+        "correct": "The dog wagged its tail"
+      },
+      "solution": "If you can replace with 'it is', use 'it's'. Otherwise, use 'its'."
+    },
+    {
+      "error": "Wrong preposition usage",
+      "explanation": "Prepositions don't always translate directly between languages",
+      "examples": {
+        "incorrect": "I'm good in English",
+        "correct": "I'm good at English"
+      },
+      "solution": "Learn prepositions through practice and common collocations."
+    },
+    {
+      "error": "Subject-verb agreement",
+      "explanation": "Singular subjects need singular verbs, plural subjects need plural verbs",
+      "examples": {
+        "incorrect": "The students is studying",
+        "correct": "The students are studying"
+      },
+      "solution": "Always check if your subject is singular or plural."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "issue": "Audio not working in conversation practice",
+      "causes": [
+        "Microphone permissions not granted",
+        "Browser not supported",
+        "Audio device not connected"
+      ],
+      "solutions": [
+        "Check browser microphone permissions",
+        "Use Chrome, Firefox, or Safari",
+        "Ensure headset/microphone is connected",
+        "Try refreshing the page"
+      ]
+    },
+    {
+      "issue": "Slow response from AI chatbot",
+      "causes": [
+        "High server load",
+        "Poor internet connection",
+        "Complex query processing"
+      ],
+      "solutions": [
+        "Wait a moment and try again",
+        "Check your internet connection",
+        "Try shorter, simpler questions",
+        "Contact support if problem persists"
+      ]
+    },
+    {
+      "issue": "Unable to save progress",
+      "causes": [
+        "Browser cookies disabled",
+        "Storage quota exceeded",
+        "Network connectivity issues"
+      ],
+      "solutions": [
+        "Enable cookies in browser settings",
+        "Clear browser data to free up space",
+        "Check internet connection",
+        "Try using incognito/private mode"
+      ]
+    },
+    {
+      "issue": "Pronunciation feedback not accurate",
+      "causes": [
+        "Background noise",
+        "Microphone quality",
+        "Speaking too fast or slow"
+      ],
+      "solutions": [
+        "Find a quiet environment",
+        "Use a quality headset with microphone",
+        "Speak at normal pace",
+        "Ensure microphone is close to mouth"
+      ]
+    }
+  ],
+  "contact_support": {
+    "email": "support@englishchatbot.com",
+    "phone": "+1-800-123-4567",
+    "hours": "Monday-Friday, 9AM-6PM EST",
+    "live_chat": "Available on website during business hours",
+    "faq": "Visit our FAQ section for quick answers",
+    "response_time": {
+      "email": "Within 24 hours",
+      "live_chat": "Immediate during business hours",
+      "phone": "Immediate during business hours"
+    },
+    "languages_supported": [
+      "English",
+      "Spanish",
+      "French",
+      "German",
+      "Chinese",
+      "Japanese"
+    ]
+  }
+}

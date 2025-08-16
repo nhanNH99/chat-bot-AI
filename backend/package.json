@@ -1,0 +1,42 @@
+{
+  "name": "english-chatbot-backend",
+  "version": "1.0.0",
+  "description": "English Learning Chatbot Backend with RAG support",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "jest",
+    "init-kb": "node src/scripts/init-knowledge-base.js",
+    "lint": "eslint src/"
+  },
+  "keywords": [
+    "chatbot",
+    "rag",
+    "langchain",
+    "english-learning",
+    "ai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.3.51",
+    "@langchain/core": "^0.3.71",
+    "@langchain/openai": "^0.3.17",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "langchain": "^0.3.30",
+    "openai": "^4.104.0",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "jest": "^29.7.0",
+    "eslint": "^9.18.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
