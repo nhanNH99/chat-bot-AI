@@ -35,7 +35,7 @@ const config = {
   CORS: {
     ORIGINS:
       process.env.NODE_ENV === "production"
-        ? ["https://chat-bot-ai-be.onrender.com"]
+        ? ["https://chat-bot-ai-vw3n.onrender.com"]
         : ["http://localhost:3000", "http://localhost:3001"],
   },
 };
